@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BTLT01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JAR/BTLT01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
